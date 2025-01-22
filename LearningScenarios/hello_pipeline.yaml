@@ -27,4 +27,4 @@ spec:
         - '-c'
       args:
        - |
-        print("Hello from SAP AI Core")
+        print("Yes! finally wrotea pipeline")
