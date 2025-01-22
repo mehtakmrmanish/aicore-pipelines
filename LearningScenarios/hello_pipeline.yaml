@@ -27,4 +27,4 @@ spec:
         - '-c'
       args:
        - |
-        print("Yes! finally wrotea pipeline")
+        print("Yes! finally wrotea pipeline!")
